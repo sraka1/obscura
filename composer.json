@@ -1,0 +1,20 @@
+{
+  "name": "sraka1/obscura",
+  "description": "A modern, license friendly PHP Image / Thumbnail library.",
+  "keywords": ["Image", "GD"],
+  "homepage": "https://github.com/sraka1/obscura",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "BoxUK",
+      "homepage":"http://www.boxuk.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+      "psr-0": {"": "lib/"}
+  }
+}
